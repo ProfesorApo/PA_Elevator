@@ -1,4 +1,3 @@
--- config.lua
 Config = {}
 
 Config.Language = "en"
