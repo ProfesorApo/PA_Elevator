@@ -26,7 +26,7 @@
 - Discord : *profesorapo*
 - Twitter : *https://x.com/ProfesorApo*
 - Twitch : *https://www.twitch.tv/profesor_apo*
-- Youtube : *https://youtu.be/G38wkDbg5K8*
+- Youtube *(preview)*: *https://youtu.be/G38wkDbg5K8*
 
   
 ![PA_Elevator](https://github.com/user-attachments/assets/b118e7f5-017e-4f41-96e9-9f3dd562f878)
